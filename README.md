@@ -38,5 +38,3 @@ The dataset includes over **50,000 rows and 12+ columns**, covering:
 - 📍 **Region-Level Breakdown:** State and district-wise performance  
 - 📊 **Interactive Filters:** Dynamic view with slicers for better user experience
 
----
-
