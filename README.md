@@ -8,7 +8,7 @@ This project presents a comprehensive **Excel dashboard** analyzing data from th
 
  Dataset Description
 
-The dataset includes over **50,000 rows and 12+ columns**, covering:
+The dataset includes over **50,000 rows and 13+ columns**, covering:
 
 - State and district-level employment data
 - Number of households provided work
